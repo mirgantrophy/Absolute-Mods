@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Microvern\Desktop\Mods\|ftp://www.absolutelygrim.x10.bz/public_html/updates/|ftp://www.absolutelygrim.x10.bz/public_html/software/|ftp://www.absolutelygrim.x10.bz/|http://www.absolutelygrim.x10.bz/updates/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.absolutelygrim.x10.bz/updates/|http://www.absolutelygrim.x10.bz/software/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.absolutelygrim.x10.bz</SupportUrlHistory>
+    <UpdateUrlHistory>http://www.absolutelygrim.x10.bz/updates/update.xml/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://www.absolutelygrim.x10.bz</ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
