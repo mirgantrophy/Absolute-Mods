@@ -1,2 +1,2 @@
 # Absolute Mods
-Absolute Mods is an early project when I first began becoming serious about learning how to program, the main focus was on xbox 360 games in C#.
+Absolute Mods was my first major programming project. It originated as NBA 2K10 Tool, which evolved into NBA 2K11 Tool. Then at the request of a forum user on se7ensins.com, I made the MLB 2K10 Tool. From there I decided to join them into one program as the code was not too different per app. I started adding Red Dead Redemption features since I very much enjoyed RDR at that time. I think I lost interest around 2013 when I built my gaming PC.
